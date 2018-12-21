@@ -1,11 +1,16 @@
 _repo: Was-mir-das-Sternenlicht-erzahlt-Eine-populare-Himmelskunde-fur-die-Jugend_58506
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58506-h/images/cover.jpg
 creator:
   author:
     agent_name: Erber, Felix
     gutenberg_agent_id: '50001'
     url: http://www.gutenberg.org/2009/agents/50001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58506#Was-mir-das-Sternenlicht-erzahlt-Eine-populare-Himmelskunde-fur-die-Jugend
 gutenberg_issued: '2018-12-20'
 gutenberg_type: Text
 identifiers:
